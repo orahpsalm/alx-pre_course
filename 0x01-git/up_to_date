@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull origin master
+=======
+git pull  alx-pre_course master
+>>>>>>> update_script
